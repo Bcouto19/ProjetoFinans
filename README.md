@@ -4,7 +4,7 @@ Página desenvolvida com o intuito de desenvolver habilidades em HTML, CSS/Boots
 
 # Sobre
 
-<p>A página apresenta um serviço fictíco de finanças pessoas.</p>
+<p>A página apresenta um serviço fictício de finanças pessoas.</p>
 
 # Tecnologias utilizadas
 
