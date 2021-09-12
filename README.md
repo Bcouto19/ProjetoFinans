@@ -1,10 +1,10 @@
 # ProjetoFinans
 
-Pagina desenvolvida com o intuito de desenvolver habilidades em HTML, CSS/Bootstrap
+Página desenvolvida com o intuito de desenvolver habilidades em HTML, CSS/Bootstrap
 
 # Sobre
 
-<p>A pagina apresenta um serviço fictíco de finças pessoas.</p>
+<p>A página apresenta um serviço fictíco de finanças pessoas.</p>
 
 # Tecnologias utilizadas
 
@@ -15,6 +15,6 @@ Pagina desenvolvida com o intuito de desenvolver habilidades em HTML, CSS/Bootst
 </ul>
 
 
-<a href= https://bcouto19.github.io/ProjetoFinans/>Acesse a página<a/>
+<a href= https://bcouto19.github.io/ProjetoFinans/>Clique aqui para acessar a página<a/>
 
 
