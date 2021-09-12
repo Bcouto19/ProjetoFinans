@@ -1,6 +1,6 @@
 # ProjetoFinans
 
-<p>Esse projeto foi desenvolvido com o intuito de desenvolver algumas habilidades em HTML css/Bootstrap. A página foi construita junto ao professor Jamilton Damasceno, no curso da Udemy - Desenvolvimento Web 2021.</p>
+<p>Esse projeto foi desenvolvido com o intuito de desenvolver algumas habilidades em HTML e css/Bootstrap. A página foi construita junto ao professor Jamilton Damasceno, no curso da Udemy - Desenvolvimento Web 2021.</p>
 
 # Sobre
 
